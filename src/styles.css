@@ -1,0 +1,29 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.lob {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+
+
+#revenant {
+  display: none;
+}
+
+#fuzzywuzzy_eating {
+  display: none;
+}
+
+#fuzzywuzzy_ballin {
+  display: none;
+}
+
+#fuzzywuzzy_sleeping {
+  display: none;
+}
